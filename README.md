@@ -2,7 +2,7 @@
 
 💻 Currently work as a .NET Fullstack developer<br/>
 ⚡ B.Eng. in Computer Science and Engineering<br/>
-💬 You can contact or connect with me on [LinkedIn](https://www.linkedin.com/in/andrea-h%C3%A5rseth-nakstad-6139ab181/)  <br/>
+💬 You can contact or connect with me on [LinkedIn](https://www.linkedin.com/in/andrea-nakstad/)  <br/>
 🌐 [GitLab](https://gitlab.com/anakstad)
 
 
